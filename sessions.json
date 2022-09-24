@@ -1,0 +1,256 @@
+[
+  {
+    "title": "Keynote",
+    "sessions": [
+      {
+        "start": "09:20",
+        "end": "10:10",
+        "speaker": "Jussi Roini & Maarten Eekels",
+        "title": "Trust me, I know what I’m doing: I found this USB stick on the ground..",
+        "description": "In this keynote, Maarten and Jussi will walk you through the considerations and options for securing your organization in the cloud. This keynote will showcase the newest and greatest security innovations in Microsoft 365 and Azure peppered with practical advice, such as “use MFA.” They might also insert random USB sticks to random laptops. But you can trust them as they know what they are doing. ",
+        "url": "https://form.responster.com/0T9mfx"
+      }
+    ]
+  },
+  {
+    "title": "Room 1",
+    "sessions": [
+      {
+        "start": "10:30",
+        "end": "11:20",
+        "speaker": "Jasper Oosterveld",
+        "title": "OneDrive, SharePoint and Teams: The holy trinity of collaboration",
+        "description": "Collaboration is a crucial part of our daily work routine. We collaborate with a wide variety of people. Varying from colleagues to customers to students. We need modern collaboration tools to work together and get the job done. Office 365 provides these tools with OneDrive, SharePoint and Teams. Combine these tools and you are presented with the holy trinity of collaboration.",
+        "url": "https://form.responster.com/Tk30BZ"
+      },
+      {
+        "start": "11:40",
+        "end": "12:30",
+        "speaker": "Laura Kokkarinen",
+        "title": "Everything you need to know about SharePoint Site Designs as a developer",
+        "description": "The constantly evolving SharePoint site designs and site scripts offer you a way to automate SharePoint site configurations. By attending this session, you'll not only learn what you can do with site designs, but also how you can create your own site designs, and deploy, use and maintain them throughout their lifespan. You'll also get some expert advice on what kind of advanced use cases you can implement with them. In addition to applying site designs via the graphical user interface, you'll be equipped with knowledge of several ways of applying them programmatically. Come to this session and become aware of the latest capabilities of this technology, when you should use it, and what you can expect in the future.",
+        "url": "https://form.responster.com/HEzqq0"
+      },
+      {
+        "start": "13:00",
+        "end": "13:30",
+        "speaker": "Christian Bauer & Denise Valentin",
+        "title": "SharePoint & Document Automation - Generate PDFs, Words, Presentations with 1 click or 1 MS Flow",
+        "description": "To run real life business processes from SharePoint Online (or on Premise) you often need to create Microsoft Office or PDF documents automatically. In this session, you will get an overview of the technical options you have when it comes to document automation with SharePoint, including the pros and cons as well as best practices. Get a LIVE DEMO how to get the job done in minutes. Design templates in MS Office and integrate data not only from SharePoint but from any other data source and import dynamic tables, pictures, charts, bar codes and even separate documents. Eventually you will be able to get your document the way you want it: per click, per MS Flow, per MS PowerApp or any workflow tool!",
+        "url": "https://form.responster.com/0izPto"
+      },
+      {
+        "start": "14:00",
+        "end": "14:50",
+        "speaker": "Alan Eardley",
+        "title": "Security in an age of collaboration",
+        "description": "Office 365 is great for collaborating with external users. It has many features that provide secure access to content for external users.\r\n\r\nIn this session we will explore a model that allows external users to be easily invited to Teams, with additional safe-guards in place such as\r\n\u2022 Agreement to terms and conditions\r\n\u2022 Multi-factor authentication\r\n\u2022 Access reviews to ensure access is only retained while needed\r\n\u2022 SharePoint sites and permissions to manage access permission\r\n\r\nThis model uses Azure AD, SharePoint, Teams and Flow",
+        "url": "https://form.responster.com/kVt4Lc"
+      },
+      {
+        "start": "15:10",
+        "end": "16:00",
+        "speaker": "Donald Hessing",
+        "title": "Using AI and Azure Cognitive Search to Enrich, Index and Search your enterprise data",
+        "description": "Cognitive search creates searchable information out of non-searchable content by attaching AI algorithms to an indexing pipeline. AI integration is through cognitive skills, enriching source documents based on entity recognition, key phrase extraction, image recognition and the ability to add custom skills to the indexing pipeline. In this session we will discuss the variety of pre-built skills available. How to create your own custom skills, and to define enrichment pipelines.",
+        "url": "https://form.responster.com/z4lxuR"
+      },
+      {
+        "start": "16:20",
+        "end": "17:10",
+        "speaker": "Katja Jokisalo",
+        "title": "Content findability and discoverability on Modern Intranets",
+        "description": "Modern intranet has a flat and flexible structure, multiple supported usage scenarios, and broad spectrum of content editors with different skills and mindset. It's more and more important to leverage a proper information architecture in order to keep your intranet valuable and efficient to use. Luckily there are plenty of technical improvements offering help as well.\r\n\r\nIn this session we'll walk through (with theory and examples)\r\n* basics of planning and implementing good information architecture\r\n* structure and navigation on modern SharePoint intranet, hub sites, mega menus etc\r\n* metadata and audience targeting\r\n* what affects findability and how to improve it\r\n* ways to make it easier to discover new and important content\r\n* how to keep content up-to-date and structured\r\n\r\nCome and learn how to improve content findability and discoverability on your Intranet!",
+        "url": "https://form.responster.com/Rxms8B"
+      }
+    ]
+  },
+  {
+    "title": "Room 2",
+    "sessions": [
+      {
+        "start": "10:30",
+        "end": "11:20",
+        "speaker": "Albert-Jan Schot",
+        "title": "Site templates, Site Life Cycle management and Modern SharePoint",
+        "description": "Focusing on providing a consistent experience for your end users having a template applied for specific sites, teams and groups is a great way to improve adoption. So a long time ago we where used to Site Templates and today we have Site Designs & Site Scripts and PnP to provision sites. In this session we will focus on the modern approach to provision components in SharePoint and Office 365, looking at the best practices in PnP and the options Site Designs and Site Scripts provide you.",
+        "url": "https://form.responster.com/hUMXug"
+      },
+      {
+        "start": "11:40",
+        "end": "12:30",
+        "speaker": "Bert Jansen",
+        "title": "Taking your SharePoint to the next level Transforming Existing Sites to the Modern Experiences",
+        "description": "Yes, your classic SharePoint sites can also benefit from modern experiences! This session will show you how to analyze, remediate and modernize your classic sites so that those sites look like, work like and have the functionality of a newly created site. We'll focus on transforming your site pages into modern pages, enabling your site for Teams, Planner and other Office 365 group connected services and getting the most out of the modern list and library experience. Furthermore, we'll also show how to transform classic publishing portals into shiny new modern communication sites.",
+        "url": "https://form.responster.com/AlFlQI"
+      },
+      {
+        "start": "13:00",
+        "end": "13:30",
+        "speaker": "Patrick Antonik",
+        "title": "Know your tools, master your processes",
+        "description": "Learn how to get an overview of all your numerous Microsoft-tools and manage their benefits effectively.\r\n\u2022 There are plenty of tools (Microsoft and beyond), but how and where are they used in your organisation (or should be)?\r\n\u2022 What is the impact if I want to replace my existing CRM-system with a new one?\r\nSee how to unlock the synergy between your tools, systems and processes to boost productivity and efficiency.\r\n\u2022 Which processes use which tools?\r\n\u2022 What is the full picture of my business process considering everything: people, documents, risks and more?\r\nFrom business process to automation\r\n\u2022 Turn your processes into workflows with FireStart\r\n\u2022 Efficient task handling, minimal look-up times, increased throughput.\r\n\u2022 Connectivity to numerous IT-systems\r\n\u2022 Workflow demo",
+        "url": "https://form.responster.com/xGlqv2"
+      },
+      {
+        "start": "14:00",
+        "end": "14:50",
+        "speaker": "Luise Freese",
+        "title": "How to inspire user to unstick from email and go with Modern Workplace",
+        "description": "In this session you will experience a very unique approach how to inspire users to really want to change their own behavior from emailing copies of spreadsheets around and rather being busy with buing busy to true social collaboration using Office 365 in general and Microsoft Teams in special. Please expect an engaging session in which you will learn a lot about endusers needs (no, its not only training) and yourself with a chuckle. Microsofts vision of how they can empower us is absolutely outstanding, but from my perspective, many organizations aren't at that point of their own learning journey, and so we deal with with some barriers like change fatigued employees, \"we've done it always like this before\"-mindset, improvable digital literacy and feeling of being disconnect from corporate strategy.",
+        "url": "https://form.responster.com/e28yvu"
+      },
+      {
+        "start": "15:10",
+        "end": "16:00",
+        "speaker": "Serge Luca",
+        "title": "Microsoft Flow advanced: tips, pitfalls, best practices with Doctor Flow",
+        "description": "You have started using Microsoft flow, you have attended a Flow presentation, but you feel that before doing real projects you need to know more. Much more. Specially if you want to create enterprise flows that compete with third party products.",
+        "url": "https://form.responster.com/7J2CRW"
+      },
+      {
+        "start": "16:20",
+        "end": "17:10",
+        "speaker": "Thomas Goelles & Stephan Bisser",
+        "title": "Unite your Modern Workplace with Microsoft's AI ecosystem",
+        "description": "Your workplace is an important topic. However, it's not a tool or service you buy of the shelf. It is an idea. It's your very own concept of teamwork. Microsoft is investing heavily in this area. For example, think of productivity tools like Teams or SharePoint, and their amount of out of the box features ready to use today. But we believe there is even more. By connecting the modern workplace with Microsoft's artificial intelligence ecosystem, we showcase how your concept of teamwork united with smart services opens the door to new use cases.",
+        "url": "https://form.responster.com/aZvPx8"
+      }
+    ]
+  },
+  {
+    "title": "Room 3",
+    "sessions": [
+      {
+        "start": "10:30",
+        "end": "11:20",
+        "speaker": "Paul Hunt",
+        "title": "Conditional access management in SharePoint and OneDrive",
+        "description": "This session is a level 200 session aimed at ITPros looking to leverage the latest investments by Microsoft in securing content and ensuring that appropriate access is granted to the appropriate people.",
+        "url": "https://form.responster.com/3qodSk"
+      },
+      {
+        "start": "11:40",
+        "end": "12:30",
+        "speaker": "Rebekka Aalbers",
+        "title": "PowerApps 101",
+        "description": "You heard the buzz about PowerApps. You want to jump on the train but don't know where to start. In this session I will cover the basics how to start with PowerApps, explain a view of the concepts and best practices of building apps and demonstrate a couple of examples.",
+        "url": "https://form.responster.com/X7hqyM"
+      },
+      {
+        "start": "14:00",
+        "end": "14:50",
+        "speaker": "Nico Martens",
+        "title": "Monitoring Office 365",
+        "description": "More and more organizations start relying heavily on Office 365. This means monitoring becomes very important. During this session we will go over the possibilities to monitor the following aspects",
+        "url": "https://form.responster.com/0Ob4Ty"
+      },
+      {
+        "start": "15:10",
+        "end": "16:00",
+        "speaker": "Paolo Pialorsi",
+        "title": "Real-life Solutions with Microsoft Azure, Microsoft 365 and the Microsoft Graph",
+        "description": "In this session, the speaker will discuss and explain the architectural patterns and the development techniques applied in a real-life solution (the SharePoint PnP Provisioning Service), which is based on Microsoft 365, SharePoint Online, Microsoft Azure and the Microsoft Graph.",
+        "url": "https://form.responster.com/DmmHrE"
+      },
+      {
+        "start": "16:20",
+        "end": "17:10",
+        "speaker": "Timo Pertilä",
+        "title": "4 steps to take control of Flow and PowerApps in your organization",
+        "description": "Citizen developers are here with Power platform. They will create plenty of nice Flows and PowerApps.But if organizations aren't prepared, it will be a total mess from the governance point of view.After this session, you will know how to avoid this mess in a way both citizen developers and IT are happy.",
+        "url": "https://form.responster.com/SLfBQ3"
+      }
+    ]
+  },
+  {
+    "title": "Room 4",
+    "sessions": [
+      {
+        "start": "10:30",
+        "end": "11:20",
+        "speaker": "Ahmad Najjar",
+        "title": "Logic Apps vs Microsoft Flow: When, How and Where...",
+        "description": "Logic Apps is an Azure cloud-based service that enables us to develop and deliver integration solutions with ease. It also helps us build, schedule, and automate processes as workflows so we can integrate apps, data, systems, and services across enterprises or organizations. However, Microsoft Flow is a SaaS offering, for automating workflows across the growing number of applications and SaaS services that business users rely on.",
+        "url": "https://form.responster.com/vcYOvf"
+      },
+      {
+        "start": "11:40",
+        "end": "12:30",
+        "speaker": "Corinna Lins",
+        "title": "Customizing the UI in modern SharePoint workspaces",
+        "description": "I want to customize the UI in modern SharePoint workspaces. What are my options? This session will guide you through a selection of the most important out-of-the-box customization options for your modern SharePoint workspace. The variety of UI customization possibilities is evolving very rapidly and as subject matter experts, we want to pick up the state-of-the-art solutions that can be used to pretty up our modern portals and collaboration workspaces.",
+        "url": "https://form.responster.com/OtRcRH"
+      },
+      {
+        "start": "14:00",
+        "end": "14:50",
+        "speaker": "Robin Agten & Nick Sevens",
+        "title": "Developing integrations in MS Teams, Flow and the Graph API",
+        "description": "Developing integrated solutions is becoming easier and easier using all kinds of tools provided by the O365 ecosystem. We will explore how to create a solution on MS Teams leveraging Flow and the Graph API",
+        "url": "https://form.responster.com/sAKpwt"
+      },
+      {
+        "start": "15:10",
+        "end": "16:00",
+        "speaker": "Sander Berkouwer",
+        "title": "Seven ways Identity enriches your Office 365 and Azure experience",
+        "description": "Azure and Office 365 rely on Azure Active Directory as their identity store. As tenfold MVP, Sander Berkouwer knows everything there is to know about identity. His experience with numerous organizations, ranging from enterprises to small business, have taught him that good identity is important to embracing cloud services. He'll show you seven ways identity enriches the experience you, your colleagues and your customers have when using Azure and Office 365, in his typical humorous but straight to the point style",
+        "url": "https://form.responster.com/LRE3SV"
+      },
+      {
+        "start": "16:20",
+        "end": "17:10",
+        "speaker": "Spencer Harbar",
+        "title": "State of the SharePoint PowerShell Nation 2019",
+        "description": "This session provides all up coverage of the current state of scripting and automation for SharePoint Server and Office 365 using PowerShell and its related technologies. Coverage of the practical reality of automating SharePoint and Office 365 versus the desired state, along with real world examples will be provided. Learn the fundamentals of where automation capabilities fall down and what steps can be taken to deliver end to end solutions for automation and configuration management.",
+        "url": "https://form.responster.com/oi7Gy7"
+      }
+    ]
+  }, 
+  {
+    "title": "Room 5",
+    "sessions": [
+      {
+        "start": "10:30",
+        "end": "11:20",
+        "speaker": "Frane Borozan",
+        "title": "SharePoint Online troubleshooting performance",
+        "description": "Performance problems with the migration to the SharePoint Online are not over, the scope is now completely different. In the SharePoint on-premises, we have a number of servers, CPU, memory, storage, network throughput and in the SharePoint Online we have different numbers we need to pay attention. Slow SharePoint can and will cause slow user adoption and users will complain a lot when accessing a new platform. The goal of the session is to provide the most common error that lead to slow SharePoint online performance and what to do and what are the metrics you need to keep an eye on. We will provide you the most important metrics you need to measure from the browser, how to troubleshoot modern sites and what to do with classic sites.",
+        "url": "https://form.responster.com/Hz0UTj"
+      },
+      {
+        "start": "11:40",
+        "end": "12:30",
+        "speaker": "Adis Jugo",
+        "title": "Microsoft Teams: The Governance Session",
+        "description": "So, now when you have Microsoft Teams implemented, you have teams inflation since everyone can create a team. In your Azure Active Directory has also got as much groups, and you are at the point when you need a governance of the whole thing, Then welcome to the Microsoft Teams governance session, which will help you deal with those questions. We will talk about who can create teams, who can assign teams permissions and how, how can we properly set and enforce Teams and groups naming conventions.",
+        "url": "https://form.responster.com/lFthzL"
+      },
+      {
+        "start": "14:00",
+        "end": "14:50",
+        "speaker": "David Opdendries",
+        "title": "Are your Azure Functions Secure?",
+        "description": "It is super easy to create functions in Azure and use it as an important part of your application. It is very common your function will be supplying information from SharePoint or from Microsoft graph to your web part or application. How easy can an outside person access that information? Is security via obscurity good enough?",
+        "url": "https://form.responster.com/EWmvUx"
+      },
+      {
+        "start": "15:10",
+        "end": "16:00",
+        "speaker": "Karoliina Kettukari",
+        "title": "Case study: Office 365 user adoption roadmap step by step",
+        "description": "A detailed guidance through one real life customer case about their journey from on-prem to the cloud during one year. The organisation begun with exchange migration and workspace migration from on-premise to the cloud. Then came Teams pilots, technical user trainings, best practises workshops and better meetings campaign. Finally we ended up with Power Apps and Power BI projects. The focus here is how to phase the user adoption and create a long term roadmap with the customer.",
+        "url": "https://form.responster.com/hng90Z"
+      },
+      {
+        "start": "16:20",
+        "end": "17:10",
+        "speaker": "Yannick Borghmans",
+        "title": "Mastering SPFx in larger projects",
+        "description": "Once you get passed the 'Hello World'-projects with SharePoint Framework, you are probably more eager to try out new/more complicated stuff and to implement them in new projects. During this session, you will get a bunch of tips & tricks about how to manage larger SPFx projects and how to work together with multiple people in an SPFx-project.",
+        "url": "https://form.responster.com/B4ZMWB"
+      }
+    ]
+  }
+]

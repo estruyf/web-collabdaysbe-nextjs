@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #__next {
+  @apply text-blackCoffee;
+  height: 100%;
+  font-family: 'Open Sans', sans-serif;
+}
