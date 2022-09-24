@@ -31,7 +31,7 @@ export const Dropdown: React.FunctionComponent<IDropdownProps> = ({ title, items
           <div className="py-1">
             {
               items.map((item, index) => (
-                <Menu.Item>
+                <Menu.Item key={item}>
                   {({ active }) => (
                     <button
                       className={`${active ? 'bg-gray-100 text-gray-900' : 'text-gray-700'} block px-4 py-2 text-sm w-full`}

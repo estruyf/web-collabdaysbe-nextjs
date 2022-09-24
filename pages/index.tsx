@@ -29,7 +29,7 @@ function Home({ sessions }) {
         </div>
 
         <a href={`https://biwug.be`} title={`BIWUG`}>
-          <img src="/assets/biwug.svg" className={`w-32 mx-auto`} title={`BIWUG`} />
+          <img src="/assets/biwug.svg" className={`w-32 mx-auto`} alt={`BIWUG`} />
         </a>
       </footer>
     </div>
