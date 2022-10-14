@@ -13,7 +13,9 @@ function Home({ sessions }) {
 
   useEffect(() => {
     if (router.query.zoom) {
-      setZoom(parseInt(router.query.zoom as string) || 1);
+      const value = parseFloat(router.query.zoom as string);
+      console.log('zoom', value);
+      setZoom(value || 1);
     }
   }, [router.query.zoom]);
 
