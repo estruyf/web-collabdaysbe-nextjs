@@ -1,256 +1,336 @@
 [
-  {
-    "title": "Keynote",
-    "sessions": [
-      {
-        "start": "09:20",
-        "end": "10:10",
-        "speaker": "Jussi Roini & Maarten Eekels",
-        "title": "Trust me, I know what I’m doing: I found this USB stick on the ground..",
-        "description": "In this keynote, Maarten and Jussi will walk you through the considerations and options for securing your organization in the cloud. This keynote will showcase the newest and greatest security innovations in Microsoft 365 and Azure peppered with practical advice, such as “use MFA.” They might also insert random USB sticks to random laptops. But you can trust them as they know what they are doing. ",
-        "url": "https://form.responster.com/0T9mfx"
-      }
-    ]
-  },
-  {
-    "title": "Room 1",
-    "sessions": [
-      {
-        "start": "10:30",
-        "end": "11:20",
-        "speaker": "Jasper Oosterveld",
-        "title": "OneDrive, SharePoint and Teams: The holy trinity of collaboration",
-        "description": "Collaboration is a crucial part of our daily work routine. We collaborate with a wide variety of people. Varying from colleagues to customers to students. We need modern collaboration tools to work together and get the job done. Office 365 provides these tools with OneDrive, SharePoint and Teams. Combine these tools and you are presented with the holy trinity of collaboration.",
-        "url": "https://form.responster.com/Tk30BZ"
-      },
-      {
-        "start": "11:40",
-        "end": "12:30",
-        "speaker": "Laura Kokkarinen",
-        "title": "Everything you need to know about SharePoint Site Designs as a developer",
-        "description": "The constantly evolving SharePoint site designs and site scripts offer you a way to automate SharePoint site configurations. By attending this session, you'll not only learn what you can do with site designs, but also how you can create your own site designs, and deploy, use and maintain them throughout their lifespan. You'll also get some expert advice on what kind of advanced use cases you can implement with them. In addition to applying site designs via the graphical user interface, you'll be equipped with knowledge of several ways of applying them programmatically. Come to this session and become aware of the latest capabilities of this technology, when you should use it, and what you can expect in the future.",
-        "url": "https://form.responster.com/HEzqq0"
-      },
-      {
-        "start": "13:00",
-        "end": "13:30",
-        "speaker": "Christian Bauer & Denise Valentin",
-        "title": "SharePoint & Document Automation - Generate PDFs, Words, Presentations with 1 click or 1 MS Flow",
-        "description": "To run real life business processes from SharePoint Online (or on Premise) you often need to create Microsoft Office or PDF documents automatically. In this session, you will get an overview of the technical options you have when it comes to document automation with SharePoint, including the pros and cons as well as best practices. Get a LIVE DEMO how to get the job done in minutes. Design templates in MS Office and integrate data not only from SharePoint but from any other data source and import dynamic tables, pictures, charts, bar codes and even separate documents. Eventually you will be able to get your document the way you want it: per click, per MS Flow, per MS PowerApp or any workflow tool!",
-        "url": "https://form.responster.com/0izPto"
-      },
-      {
-        "start": "14:00",
-        "end": "14:50",
-        "speaker": "Alan Eardley",
-        "title": "Security in an age of collaboration",
-        "description": "Office 365 is great for collaborating with external users. It has many features that provide secure access to content for external users.\r\n\r\nIn this session we will explore a model that allows external users to be easily invited to Teams, with additional safe-guards in place such as\r\n\u2022 Agreement to terms and conditions\r\n\u2022 Multi-factor authentication\r\n\u2022 Access reviews to ensure access is only retained while needed\r\n\u2022 SharePoint sites and permissions to manage access permission\r\n\r\nThis model uses Azure AD, SharePoint, Teams and Flow",
-        "url": "https://form.responster.com/kVt4Lc"
-      },
-      {
-        "start": "15:10",
-        "end": "16:00",
-        "speaker": "Donald Hessing",
-        "title": "Using AI and Azure Cognitive Search to Enrich, Index and Search your enterprise data",
-        "description": "Cognitive search creates searchable information out of non-searchable content by attaching AI algorithms to an indexing pipeline. AI integration is through cognitive skills, enriching source documents based on entity recognition, key phrase extraction, image recognition and the ability to add custom skills to the indexing pipeline. In this session we will discuss the variety of pre-built skills available. How to create your own custom skills, and to define enrichment pipelines.",
-        "url": "https://form.responster.com/z4lxuR"
-      },
-      {
-        "start": "16:20",
-        "end": "17:10",
-        "speaker": "Katja Jokisalo",
-        "title": "Content findability and discoverability on Modern Intranets",
-        "description": "Modern intranet has a flat and flexible structure, multiple supported usage scenarios, and broad spectrum of content editors with different skills and mindset. It's more and more important to leverage a proper information architecture in order to keep your intranet valuable and efficient to use. Luckily there are plenty of technical improvements offering help as well.\r\n\r\nIn this session we'll walk through (with theory and examples)\r\n* basics of planning and implementing good information architecture\r\n* structure and navigation on modern SharePoint intranet, hub sites, mega menus etc\r\n* metadata and audience targeting\r\n* what affects findability and how to improve it\r\n* ways to make it easier to discover new and important content\r\n* how to keep content up-to-date and structured\r\n\r\nCome and learn how to improve content findability and discoverability on your Intranet!",
-        "url": "https://form.responster.com/Rxms8B"
-      }
-    ]
-  },
-  {
-    "title": "Room 2",
-    "sessions": [
-      {
-        "start": "10:30",
-        "end": "11:20",
-        "speaker": "Albert-Jan Schot",
-        "title": "Site templates, Site Life Cycle management and Modern SharePoint",
-        "description": "Focusing on providing a consistent experience for your end users having a template applied for specific sites, teams and groups is a great way to improve adoption. So a long time ago we where used to Site Templates and today we have Site Designs & Site Scripts and PnP to provision sites. In this session we will focus on the modern approach to provision components in SharePoint and Office 365, looking at the best practices in PnP and the options Site Designs and Site Scripts provide you.",
-        "url": "https://form.responster.com/hUMXug"
-      },
-      {
-        "start": "11:40",
-        "end": "12:30",
-        "speaker": "Bert Jansen",
-        "title": "Taking your SharePoint to the next level Transforming Existing Sites to the Modern Experiences",
-        "description": "Yes, your classic SharePoint sites can also benefit from modern experiences! This session will show you how to analyze, remediate and modernize your classic sites so that those sites look like, work like and have the functionality of a newly created site. We'll focus on transforming your site pages into modern pages, enabling your site for Teams, Planner and other Office 365 group connected services and getting the most out of the modern list and library experience. Furthermore, we'll also show how to transform classic publishing portals into shiny new modern communication sites.",
-        "url": "https://form.responster.com/AlFlQI"
-      },
-      {
-        "start": "13:00",
-        "end": "13:30",
-        "speaker": "Patrick Antonik",
-        "title": "Know your tools, master your processes",
-        "description": "Learn how to get an overview of all your numerous Microsoft-tools and manage their benefits effectively.\r\n\u2022 There are plenty of tools (Microsoft and beyond), but how and where are they used in your organisation (or should be)?\r\n\u2022 What is the impact if I want to replace my existing CRM-system with a new one?\r\nSee how to unlock the synergy between your tools, systems and processes to boost productivity and efficiency.\r\n\u2022 Which processes use which tools?\r\n\u2022 What is the full picture of my business process considering everything: people, documents, risks and more?\r\nFrom business process to automation\r\n\u2022 Turn your processes into workflows with FireStart\r\n\u2022 Efficient task handling, minimal look-up times, increased throughput.\r\n\u2022 Connectivity to numerous IT-systems\r\n\u2022 Workflow demo",
-        "url": "https://form.responster.com/xGlqv2"
-      },
-      {
-        "start": "14:00",
-        "end": "14:50",
-        "speaker": "Luise Freese",
-        "title": "How to inspire user to unstick from email and go with Modern Workplace",
-        "description": "In this session you will experience a very unique approach how to inspire users to really want to change their own behavior from emailing copies of spreadsheets around and rather being busy with buing busy to true social collaboration using Office 365 in general and Microsoft Teams in special. Please expect an engaging session in which you will learn a lot about endusers needs (no, its not only training) and yourself with a chuckle. Microsofts vision of how they can empower us is absolutely outstanding, but from my perspective, many organizations aren't at that point of their own learning journey, and so we deal with with some barriers like change fatigued employees, \"we've done it always like this before\"-mindset, improvable digital literacy and feeling of being disconnect from corporate strategy.",
-        "url": "https://form.responster.com/e28yvu"
-      },
-      {
-        "start": "15:10",
-        "end": "16:00",
-        "speaker": "Serge Luca",
-        "title": "Microsoft Flow advanced: tips, pitfalls, best practices with Doctor Flow",
-        "description": "You have started using Microsoft flow, you have attended a Flow presentation, but you feel that before doing real projects you need to know more. Much more. Specially if you want to create enterprise flows that compete with third party products.",
-        "url": "https://form.responster.com/7J2CRW"
-      },
-      {
-        "start": "16:20",
-        "end": "17:10",
-        "speaker": "Thomas Goelles & Stephan Bisser",
-        "title": "Unite your Modern Workplace with Microsoft's AI ecosystem",
-        "description": "Your workplace is an important topic. However, it's not a tool or service you buy of the shelf. It is an idea. It's your very own concept of teamwork. Microsoft is investing heavily in this area. For example, think of productivity tools like Teams or SharePoint, and their amount of out of the box features ready to use today. But we believe there is even more. By connecting the modern workplace with Microsoft's artificial intelligence ecosystem, we showcase how your concept of teamwork united with smart services opens the door to new use cases.",
-        "url": "https://form.responster.com/aZvPx8"
-      }
-    ]
-  },
-  {
-    "title": "Room 3",
-    "sessions": [
-      {
-        "start": "10:30",
-        "end": "11:20",
-        "speaker": "Paul Hunt",
-        "title": "Conditional access management in SharePoint and OneDrive",
-        "description": "This session is a level 200 session aimed at ITPros looking to leverage the latest investments by Microsoft in securing content and ensuring that appropriate access is granted to the appropriate people.",
-        "url": "https://form.responster.com/3qodSk"
-      },
-      {
-        "start": "11:40",
-        "end": "12:30",
-        "speaker": "Rebekka Aalbers",
-        "title": "PowerApps 101",
-        "description": "You heard the buzz about PowerApps. You want to jump on the train but don't know where to start. In this session I will cover the basics how to start with PowerApps, explain a view of the concepts and best practices of building apps and demonstrate a couple of examples.",
-        "url": "https://form.responster.com/X7hqyM"
-      },
-      {
-        "start": "14:00",
-        "end": "14:50",
-        "speaker": "Nico Martens",
-        "title": "Monitoring Office 365",
-        "description": "More and more organizations start relying heavily on Office 365. This means monitoring becomes very important. During this session we will go over the possibilities to monitor the following aspects",
-        "url": "https://form.responster.com/0Ob4Ty"
-      },
-      {
-        "start": "15:10",
-        "end": "16:00",
-        "speaker": "Paolo Pialorsi",
-        "title": "Real-life Solutions with Microsoft Azure, Microsoft 365 and the Microsoft Graph",
-        "description": "In this session, the speaker will discuss and explain the architectural patterns and the development techniques applied in a real-life solution (the SharePoint PnP Provisioning Service), which is based on Microsoft 365, SharePoint Online, Microsoft Azure and the Microsoft Graph.",
-        "url": "https://form.responster.com/DmmHrE"
-      },
-      {
-        "start": "16:20",
-        "end": "17:10",
-        "speaker": "Timo Pertilä",
-        "title": "4 steps to take control of Flow and PowerApps in your organization",
-        "description": "Citizen developers are here with Power platform. They will create plenty of nice Flows and PowerApps.But if organizations aren't prepared, it will be a total mess from the governance point of view.After this session, you will know how to avoid this mess in a way both citizen developers and IT are happy.",
-        "url": "https://form.responster.com/SLfBQ3"
-      }
-    ]
-  },
-  {
-    "title": "Room 4",
-    "sessions": [
-      {
-        "start": "10:30",
-        "end": "11:20",
-        "speaker": "Ahmad Najjar",
-        "title": "Logic Apps vs Microsoft Flow: When, How and Where...",
-        "description": "Logic Apps is an Azure cloud-based service that enables us to develop and deliver integration solutions with ease. It also helps us build, schedule, and automate processes as workflows so we can integrate apps, data, systems, and services across enterprises or organizations. However, Microsoft Flow is a SaaS offering, for automating workflows across the growing number of applications and SaaS services that business users rely on.",
-        "url": "https://form.responster.com/vcYOvf"
-      },
-      {
-        "start": "11:40",
-        "end": "12:30",
-        "speaker": "Corinna Lins",
-        "title": "Customizing the UI in modern SharePoint workspaces",
-        "description": "I want to customize the UI in modern SharePoint workspaces. What are my options? This session will guide you through a selection of the most important out-of-the-box customization options for your modern SharePoint workspace. The variety of UI customization possibilities is evolving very rapidly and as subject matter experts, we want to pick up the state-of-the-art solutions that can be used to pretty up our modern portals and collaboration workspaces.",
-        "url": "https://form.responster.com/OtRcRH"
-      },
-      {
-        "start": "14:00",
-        "end": "14:50",
-        "speaker": "Robin Agten & Nick Sevens",
-        "title": "Developing integrations in MS Teams, Flow and the Graph API",
-        "description": "Developing integrated solutions is becoming easier and easier using all kinds of tools provided by the O365 ecosystem. We will explore how to create a solution on MS Teams leveraging Flow and the Graph API",
-        "url": "https://form.responster.com/sAKpwt"
-      },
-      {
-        "start": "15:10",
-        "end": "16:00",
-        "speaker": "Sander Berkouwer",
-        "title": "Seven ways Identity enriches your Office 365 and Azure experience",
-        "description": "Azure and Office 365 rely on Azure Active Directory as their identity store. As tenfold MVP, Sander Berkouwer knows everything there is to know about identity. His experience with numerous organizations, ranging from enterprises to small business, have taught him that good identity is important to embracing cloud services. He'll show you seven ways identity enriches the experience you, your colleagues and your customers have when using Azure and Office 365, in his typical humorous but straight to the point style",
-        "url": "https://form.responster.com/LRE3SV"
-      },
-      {
-        "start": "16:20",
-        "end": "17:10",
-        "speaker": "Spencer Harbar",
-        "title": "State of the SharePoint PowerShell Nation 2019",
-        "description": "This session provides all up coverage of the current state of scripting and automation for SharePoint Server and Office 365 using PowerShell and its related technologies. Coverage of the practical reality of automating SharePoint and Office 365 versus the desired state, along with real world examples will be provided. Learn the fundamentals of where automation capabilities fall down and what steps can be taken to deliver end to end solutions for automation and configuration management.",
-        "url": "https://form.responster.com/oi7Gy7"
-      }
-    ]
-  }, 
-  {
-    "title": "Room 5",
-    "sessions": [
-      {
-        "start": "10:30",
-        "end": "11:20",
-        "speaker": "Frane Borozan",
-        "title": "SharePoint Online troubleshooting performance",
-        "description": "Performance problems with the migration to the SharePoint Online are not over, the scope is now completely different. In the SharePoint on-premises, we have a number of servers, CPU, memory, storage, network throughput and in the SharePoint Online we have different numbers we need to pay attention. Slow SharePoint can and will cause slow user adoption and users will complain a lot when accessing a new platform. The goal of the session is to provide the most common error that lead to slow SharePoint online performance and what to do and what are the metrics you need to keep an eye on. We will provide you the most important metrics you need to measure from the browser, how to troubleshoot modern sites and what to do with classic sites.",
-        "url": "https://form.responster.com/Hz0UTj"
-      },
-      {
-        "start": "11:40",
-        "end": "12:30",
-        "speaker": "Adis Jugo",
-        "title": "Microsoft Teams: The Governance Session",
-        "description": "So, now when you have Microsoft Teams implemented, you have teams inflation since everyone can create a team. In your Azure Active Directory has also got as much groups, and you are at the point when you need a governance of the whole thing, Then welcome to the Microsoft Teams governance session, which will help you deal with those questions. We will talk about who can create teams, who can assign teams permissions and how, how can we properly set and enforce Teams and groups naming conventions.",
-        "url": "https://form.responster.com/lFthzL"
-      },
-      {
-        "start": "14:00",
-        "end": "14:50",
-        "speaker": "David Opdendries",
-        "title": "Are your Azure Functions Secure?",
-        "description": "It is super easy to create functions in Azure and use it as an important part of your application. It is very common your function will be supplying information from SharePoint or from Microsoft graph to your web part or application. How easy can an outside person access that information? Is security via obscurity good enough?",
-        "url": "https://form.responster.com/EWmvUx"
-      },
-      {
-        "start": "15:10",
-        "end": "16:00",
-        "speaker": "Karoliina Kettukari",
-        "title": "Case study: Office 365 user adoption roadmap step by step",
-        "description": "A detailed guidance through one real life customer case about their journey from on-prem to the cloud during one year. The organisation begun with exchange migration and workspace migration from on-premise to the cloud. Then came Teams pilots, technical user trainings, best practises workshops and better meetings campaign. Finally we ended up with Power Apps and Power BI projects. The focus here is how to phase the user adoption and create a long term roadmap with the customer.",
-        "url": "https://form.responster.com/hng90Z"
-      },
-      {
-        "start": "16:20",
-        "end": "17:10",
-        "speaker": "Yannick Borghmans",
-        "title": "Mastering SPFx in larger projects",
-        "description": "Once you get passed the 'Hello World'-projects with SharePoint Framework, you are probably more eager to try out new/more complicated stuff and to implement them in new projects. During this session, you will get a bunch of tips & tricks about how to manage larger SPFx projects and how to work together with multiple people in an SPFx-project.",
-        "url": "https://form.responster.com/B4ZMWB"
-      }
-    ]
-  }
+   {
+      "title":"Einstein A (-1)",
+      "sessions":[
+         {
+            "start":"09:40",
+            "end":"10:30",
+            "speaker":"Ilya Fainberg",
+            "title":"Everything about PowerApps UX Design (in 55 minutes) (lvl 100)",
+            "description":"With PowerApps, anyone can build an enterprise application, because it is easy. Making it easy to use, it not. You don't need to be a professional UX designer to build great apps, you just need to know the basics. And in this session, we'll cover EVERYTHING: Layouts, Navigation, Responsive Design, Branding, Performance, Color and more! in 55 minutes.",
+            "url":"https://form.responster.com/UTU1CU"
+         },
+         {
+            "start":"10:45",
+            "end":"11:35",
+            "speaker":"Spencer Harbar",
+            "title":"Citizen Development: Past, Present, and Future (lvl 200)",
+            "description":"'App Platforms without limits' is the promise, but how accurate is this when it comes to enterprise adoption of low code/no code platforms? This session takes a whirlwind tour a brief history of low code solutions, and then focuses on the 'missing pieces' necessary for true adoption success in the enterprise, and how to plug those gaps now and in the near future.",
+            "url":"https://form.responster.com/DCOCIc"
+         },
+         {
+            "start":"11:50",
+            "end":"12:40",
+            "speaker":"Katja Jokisalo",
+            "title":"Viva Intranet! (lvl 200)",
+            "description":"How to create a modern M365 intranet with SharePoint, Teams and Viva Connections? Employee experience platform Viva brings together new features for internal communication, knowledge sharing and learning, but what is the best way to include Viva in your intranet?",
+            "url":"https://form.responster.com/W6ciru"
+         },
+         {
+            "start":"13:00",
+            "end":"13:30",
+            "speaker":"Patrick Viaene",
+            "title":"[Sponsor session by Microsoft] Hybrid Work for Everybody",
+            "description":"Hybrid Work for Everybody",
+            "url":"https://form.responster.com/LIbklg"
+         },
+         {
+            "start":"14:00",
+            "end":"14:50",
+            "speaker":"Frederik Bisback",
+            "title":"Ways to ingest data into the Power Platform! (lvl 100)",
+            "description":"Data, data and data. We have all kinds of data (structured, unstructured, on-premises and in the cloud). What are the ways to move the data towards the Power Platform? Overview of the possibilities: when to use those ways, based on frequency, data volume, and complexity. And, of course, demo time.",
+            "url":"https://form.responster.com/zNVwNW"
+         },
+         {
+            "start":"15:10",
+            "end":"16:00",
+            "speaker":"Sasha Kranjac - Mustafa Toroman",
+            "title":"Getting started with Microsoft 365 Security and Microsoft 365 Defender (lvl 200)",
+            "description":"Cognitive search creates searchable information out of non-searchable content by attaching AI algorithms to an indexing pipeline. AI integration is through cognitive skills, enriching source documents based on entity recognition, key phrase extraction, image recognition and the ability to add custom skills to the indexing pipeline. In this session we will discuss the variety of pre-built skills available. How to create your own custom skills, and to define enrichment pipelines.",
+            "url":"https://form.responster.com/IsdgCZ"
+         },
+         {
+            "start":"16:20",
+            "end":"17:10",
+            "speaker":"Edyta Gorzon - Kasia Nowicka",
+            "title":"Teams governance: undressed. Case studies of gross mistakes. (lvl 200)",
+            "description":"No matter how much you avoid the subject of governance, it will catch up to you one day. The only question is, how badly will a clash with reality impact your organization? We have seen some of the world's largest organizations make fundamental but avoidable mistakes and we want to tell you all about them so that you can ensure they won't get replicated. In addition, if something has already gone wrong and you are scratching your head on how to tame teams, we will advise you on methods and strategies to remediate it.",
+            "url":"https://form.responster.com/m9WtiB"
+         }
+      ]
+   },
+   {
+      "title":"Einstein B (-1)",
+      "sessions":[
+         {
+            "start":"09:40",
+            "end":"10:30",
+            "speaker":"Tomislav Lulić",
+            "title":"Guest account in Azure Active Directory (lvl 200)",
+            "description":"The guest account is an excellent feature in Azure Active directory. It is a great challenge to allow access to some resources in your company/environment for users/clients that do not belong to your organisation. With Azure AD B2b collaboration, you can invite anyone to collaborate with your organization using their own work, school, or social account. You can give roles to external users (helpdesk, external consultants etc). We will show you some possibilities and examples, Through presentation and demo, how to use Guest account.",
+            "url":"https://form.responster.com/xkNEi6"
+         },
+         {
+            "start":"10:45",
+            "end":"11:35",
+            "speaker":"Paolo Pialorsi",
+            "title":"Become a Microsoft Graph Ninja (lvl 300)",
+            "description":"The Microsoft Graph allows developing custom solutions fully integrated with the whole set of services offered by the Microsoft 365 ecosystem. In this session, you will learn how to leverage the Microsoft Graph for developing advanced scenarios like webhooks, open extensions, schema extensions, change notifications, etc. You will also learn about the security infrastructure under the cover of the Microsoft Graph, understanding how to leverage the Microsoft Identity Platform to create secure and safe solutions. The target audience of this session is developers (.NET or client-side) with a basic knowledge of the Microsoft Graph, willing to deep dive into advanced scenarios useful to build real-life enterprise-level solutions.",
+            "url":"https://form.responster.com/nNiXlm"
+         },
+         {
+            "start":"11:50",
+            "end":"12:40",
+            "speaker":"Antje Lamartine",
+            "title":"Walk the line with MS Teams: excited end users & overwhelmed IT or vice versa? (lvl 100)",
+            "description":"Microsoft will continue to connect M365 apps and services to MS Teams. While this is overall very exciting, the average end user might not need or want much more functionality than is already available. At the same time, a new feature could just be what they need to make their daily work a bit easier. For IT, the struggle is real, too. Updates keep coming and how does one keep track of them, assess them, and decide how and whom to roll them out to? Antje Lamartine is going to present a strategy to deliver to end users just what's right for them and tackle the challenges a modern-day IT department faces today with evergreen M365 cloud services.",
+            "url":"https://form.responster.com/d13qpS"
+         },
+         {
+            "start":"13:00",
+            "end":"13:30",
+            "speaker":"Sofie Van Der Bruggen - Osvaldo Sousa",
+            "title":"[Sponsor session by Kianda] Breaking down barriers to Digital Transformation",
+            "description":"Create amazing enterprise applications and automate business processes easily and quickly without coding.",
+            "url":"https://form.responster.com/oZUyHI"
+         },
+         {
+            "start":"14:00",
+            "end":"14:50",
+            "speaker":"Albert-Jan Schot",
+            "title":"An API is not a Connector (lvl 200)",
+            "description":"A fusion development story about low-code development for Developers. You will learn how you, as a developer, can use your experience to help citizen developers. Get familiar with what you can expect when encountering the Power Platform. From a quick introduction about when to use what; ranging from Power Automate to Logic Apps and Azure Functions. From SQL to Dataverse. Because how awesome your API might be, it is not yet a connector and a citizen developer will not use it.",
+            "url":"https://form.responster.com/FQQ7Dn"
+         },
+         {
+            "start":"15:10",
+            "end":"16:00",
+            "speaker":"Femke Cornelissen",
+            "title":"Automate your onboarding process with Power Automate (lvl 100)",
+            "description":"How to automate an onboarding process within M365. Ensures that your people get the right impression!",
+            "url":"https://form.responster.com/ihJKjP"
+         },
+         {
+            "start":"16:20",
+            "end":"17:10",
+            "speaker":"Rik de Koning",
+            "title":"How to deal with long running approvals in Power Automate (lvl 300)",
+            "description":"Approvals are a widely used mechanism in Power Automate that easily provides users with the ability to configure approval processes. But what to do when an approval hasn't completed yet, but the flow has timed out because it was running for 28 days? In this session, Rik will show you how to overcome this limit and use approvals without limitations",
+            "url":"https://form.responster.com/ByCYF1"
+         }
+      ]
+   },
+   {
+      "title":"Einstein C (-1)",
+      "sessions":[
+         {
+            "start":"09:40",
+            "end":"10:30",
+            "speaker":"Patrick Guimonet",
+            "title":"Managing Microsoft 365 storage for success using SharePoint, OneDrive and Teams (lvl 200)",
+            "description":"In this session based on real customers' experiences and scenarios, we will discuss how storage in Office 365 can be best used, organized, and optimized to get real business value",
+            "url":"https://form.responster.com/R1GSDi"
+         },
+         {
+            "start":"11:40",
+            "end":"12:30",
+            "speaker":"Edyta Gorzon - Robert Mulsow",
+            "title":"Best 5 free Microsoft Teams Apps based on PowerPlatform (lvl 200)",
+            "description":"Microsoft Teams is THE central collaboration system. More than 500.000 companies globally use it with more than 115 Mio. monthly active users. While existing Teams features are totally satisfying for Teams starters, experienced users are always searching for additional apps to get their work done. If you also want to know, how you can use Microsoft Teams even mor effective, this session is for you. We felt in love with 5 great and free Teams apps, which make our daily collaboration easier. Let's join this session together and learn, how we use these apps and how they will help you.",
+            "url":"https://form.responster.com/GeblHO"
+         },
+         {
+            "start":"11:50",
+            "end":"12:40",
+            "speaker":"Albert Hoitingh",
+            "title":"Microsoft Purview Information Protection de-mystified (lvl 200)",
+            "description":"Microsoft Information Protection has come a long way. From the earliest beginnings (Azure RMS and Secure Islands) to the auto-classification of SharePoint Online data at-rest, there are no reasons not to use the functions it provides. But the prospect of using the labels is somewhat daunting. Will these work? What options do we have? Can I still collaborate with my partners? In this session, Albert will do a deep-dive into Microsoft Information Protection. We'll look at the configuration of the labels and the integration with Office Online. Auto-classification of data at rest (either on-premise or in the cloud) is also part of the agenda. We'll also dive into the scenario of data leakage and how information protection can be used to counter this as-well. The concept of labeling containers instead of the information itself is also discussed, including the pros and cons. In the end you will have a great understanding of anything to do with labeling in Office 365 and beyond.",
+            "url":"https://form.responster.com/ZYqHqg"
+         },
+         {
+            "start":"14:00",
+            "end":"14:50",
+            "speaker":"Paul Hunt",
+            "title":"The importance of Signals in Office 365 Tenancy health (lvl 100)",
+            "description":"Just like the human body, Office 365 tenancies provide a number of signals that indicate the state and health of the overall tenancy and just like the human body, ignoring these signals can be bad for your health! This session will take a dive into the various service signals available to you as an Office 365 admin, allowing you to holistically assess the state of your tenancy across the Service as well as User and Information health. We'll look at where we get our signals from and what indications can be obtained from users, on-premises systems and cloud services. We'll look at the ways of consuming information from Microsoft through the Message Centre and the Graph API, using basic UI access through to automation alerting and interfacing alerts from M365 into other services such as ServiceNow. Beyond the service level support, we'll also look at the reports available to you to monitor user health and behaviours to show how your users actions can affect the health of your tenancy and lead to a breach or other event that may have a significant financial or reputational cost.",
+            "url":"https://form.responster.com/vvINOk"
+         },
+         {
+            "start":"15:10",
+            "end":"16:00",
+            "speaker":"Joris Poelmans",
+            "title":"Dataverse Deep Dive: watch out for sharks (lvl 300)",
+            "description":"In this session, we will look at some of the inner workings of Dataverse that you should be aware of when you start implementing solutions on top of Dataverse. Based on lessons learned from a large scale European deployment using Power Platform components such as Dynamics 365 solutions, Power Automate Flows and Canvas apps, we will look at the sharks that might kill your project. Topics will range from recommended practices to undocumented processes and cover things like automated deployments and automated testing, solution management, integration and migration gotchas, how to interact with Microsoft support, release cycles, etc ... A shark can have up to 3000 teeth at once, guess how many things in Dataverse can bite you",
+            "url":"https://form.responster.com/fF5lkd"
+         },
+         {
+            "start":"16:20",
+            "end":"17:10",
+            "speaker":"Bill Ayers",
+            "title":"Artificial Intelligence and Common Sense (lvl 100)",
+            "description":"Artificial Intelligence and Machine Learning is the 'new' technology that everyone's talking about. But what does it really mean? How far have we really come in the last few years? Is it really ready to solve real business problems? And is it safe? In this talk we'll review the current state-of-the-art, what's available on Azure for machine learning and business-ready AI, and take a peek into the future of this brave new world.",
+            "url":"https://form.responster.com/8VyzGF"
+         }
+      ]
+   },
+   {
+      "title":"Edison (0)",
+      "sessions":[
+         {
+            "start":"09:40",
+            "end":"10:30",
+            "speaker":"Knut Relbe-Moe",
+            "title":"All you need to know about Webinars in Teams (lvl 200)",
+            "description":"Join MVP and international speaker Knut Relbe-Moe om this session to learn how to setup Webinars in Teams. We will go trough customize the webinar page, put everything into the social platforms and also the details about where the webinar is located. So come and learn on how to utilize this for your organization",
+            "url":"https://form.responster.com/uI9fjK"
+         },
+         {
+            "start":"10:45",
+            "end":"11:35",
+            "speaker":"Michael Seidl",
+            "title":"PowerShell and MS Graph API demystified (lvl 300)",
+            "description":"Microsoft GRAPH API is your Way to automate Azure Resources. In this session, I will show you when to choose MS Graph API and how to connect to MS Graph with Azure Apps and see some Best Practices. After this Session, you will love to work with MS GRAPH API and PowerShell.",
+            "url":"https://form.responster.com/jvUyn0"
+         },
+         {
+            "start":"11:50",
+            "end":"12:40",
+            "speaker":"Stephan Bisser - Thomas Goelles",
+            "title":"Blazor + Bot Framework = a Microsoft Teams Platform Dream Team (lvl 300)",
+            "description":"Join us to take a look behind the curtains of developing for Teams as a platform with a special view on a Blazor Web App running on Azure which can be smartly connected with a chatbot built using the Microsoft Bot Framework and Azure Conversational AI platform to get the most out of your LOB Teams applications!",
+            "url":"https://form.responster.com/2pjVMI"
+         },
+         {
+            "start":"14:00",
+            "end":"14:50",
+            "speaker":"Michael Noel",
+            "title":"IT Insecurity - Understanding the Threat of Modern Cyber-attacks (lvl 200)",
+            "description":"Organizations today are vastly unprepared for the threat of modern cyber-attacks. At the same time, the attackers are becoming more sophisticated and the amount of resources at their disposal is increasing. It has become a lucrative business to hack, disrupt, and steal intellectual property from organizations of all sizes and in all business sectors.",
+            "url":"https://form.responster.com/PCBauM"
+         },
+         {
+            "start":"15:10",
+            "end":"16:00",
+            "speaker":"Laura Kokkarinen",
+            "title":"Hacker vs Azure Web Application Firewall (lvl 300)",
+            "description":"Setting up an Azure Web Application Firewall (WAF) is a quick way to add a significant boost to the security of your web application running on Azure. It has built-in protection for the OWASP Top 10 security risks, and it automatically blocks some of the most common attacks. But don't sit back and relax just yet; there's more to security than setting up a firewall! During development, you still need to keep many other security considerations in mind to ensure your application is protected against attacks executed by cybercriminals. Join me in this session and learn what kind of attacks Azure WAF can block for you automatically and what is left for you to consider to ensure a secure Azure PaaS web app as a developer.",
+            "url":"https://form.responster.com/bmsClr"
+         },
+         {
+            "start":"16:20",
+            "end":"17:10",
+            "speaker":"Feline Parein",
+            "title":"How to deploy your Power Platform solution company-wide: Azure DevOps can help with CI/CD (lvl 300)",
+            "description":"In this session we will discuss Azure DevOps to deploy Power Apps and Power Automate flows. By using a business case from the public health sector, we want to paint the landscape for Azure DevOps in combination with the Power Platform and discuss the different levels of complexity. From a simple build and release pipeline with environment variables to the automatic creation of multiple release pipelines. PowerShell is used to create and update 170 solutions and 170 applications all starting from 1 master solution. With PowerShell we can use the Power Apps admin module automating almost any step in the deploy process. Step by step we will show the built-up complexity that makes the deploys as smooth and reliable as possible.",
+            "url":"https://form.responster.com/53lQHT"
+         }
+      ]
+   },
+   {
+      "title":"Marconi (0)",
+      "sessions":[
+         {
+            "start":"09:40",
+            "end":"10:30",
+            "speaker":"Edin Kapić",
+            "title":"Understanding M365 Surfaces and Azure Services (lvl 100)",
+            "description":"When you start developing for M365, it is a very daunting proposition where to start. Should I build a webpart? An extension? A teams app? A bot? A connector? In this session I'll take you around all the options you have to add your custom code in M365 experiences (the 'Surfaces') and what services from Azure cloud could make it easier to implement. You will take away a good understanding of what's possible, the criteria to consider one option over another and also the working knowledge of the Azure building blocs for each customization options.",
+            "url":"https://form.responster.com/gTHPoE"
+         },
+         {
+            "start":"10:45",
+            "end":"11:35",
+            "speaker":"Iona Varga",
+            "title":"Conversational Apps, why type if you can speak? (lvl 200)",
+            "description":"So, now when you have Microsoft Teams implemented, you have teams inflation since everyone can create a team. In your Azure Active Directory has also got as much groups, and you are at the point when you need a governance of the whole thing, Then welcome to the Microsoft Teams governance session, which will help you deal with those questions. We will talk about who can create teams, who can assign teams permissions and how, how can we properly set and enforce Teams and groups naming conventions.",
+            "url":"https://form.responster.com/qpw6kY"
+         },
+         {
+            "start":"11:50",
+            "end":"12:40",
+            "speaker":"Robert Vončina",
+            "title":"SharePoint Online Migration Options (lvl 200)",
+            "description":"Migrating to cloud can be a tricky project and for that you want the best tools to do the job. In this session we will look at different tools to migrate your content to the cloud. As a plus, we will also look at options to reorganize content when already on the cloud environment.",
+            "url":"https://form.responster.com/6Hx4L4"
+         },
+         {
+            "start":"14:00",
+            "end":"14:50",
+            "speaker":"Nicki Borell",
+            "title":"Graph Insights, Viva and the possibilities for customization (lvl 200)",
+            "description":"Microsoft Viva takes over the functions of the My Analytics and Workplace Analytics features suggestively. There is also a lot going on in the backend. The MeetingInsights and ItemInsights signals can be customized for some time already and now the PeopleInsights signal can be configured as well. This affects the 'Profile Card', 'User Profile in Delve' and the 'Listing relevant people / working with' feature. In this session, you will learn what can be customized in detail and how customizations are affected. This will allow you to customize Graph Insights and Microsoft Viva to meet your needs.",
+            "url":"https://form.responster.com/sT4oPy"
+         },
+         {
+            "start":"15:10",
+            "end":"16:00",
+            "speaker":"Spencer Harbar",
+            "title":"Real World Infrastructure Deployment with Bicep: Hype versus Reality (lvl 200)",
+            "description":"This session will present a real-world case study of infrastructure deployment (of platform services and applications) to enable “push button” deployment of the resources necessary for a SaaS solution using Bicep. Covering both the pros and the cons the session will walk through if Bicep truly enables Infrastructure-as-code (IaC) along with the critical gaps that should be considered when building commercial solutions with the Azure stack. A basic understanding of IaC, DevOps and Continuous Development principles is assumed, although this is predominantly an Infrastructure focused session.",
+            "url":"https://form.responster.com/1bXrIh"
+         },
+         {
+            "start":"16:20",
+            "end":"17:10",
+            "speaker":"Vincent Biret",
+            "title":"Turbocharge your API integration with Microsoft Kiota SDKs (lvl 100)",
+            "description":"Integrating your application with third party APIs can be challenging when your application platform does not offer an SDK to call those. Implementing authentication, authorization, serialization, error handling and more adds a lot of work and risk to your project. Join us during this demo filled session to discover how you can generate your own tailored SDK for any OpenAPI description in multiple languages using Microsoft Kiota. Using your new Kiota generated tailored SDK, complex aspects of calling APIs will be handled for you and you can focus on what matter: building value for your end users.",
+            "url":"https://form.responster.com/UsR4oJ"
+         }
+      ]
+   },
+   {
+      "title":"Archimedes (0)",
+      "sessions":[
+         {
+            "start":"09:40",
+            "end":"10:30",
+            "speaker":"Ahmad Najjar",
+            "title":"Calling APIs, Consuming Services and Exposing Data using Power Automate (lvl 300)",
+            "description":"Power Automate tooling make it possible to quickly automate Microsoft Office 365, Dynamics 365 and hundreds of SaaS services without or with minimal code – but that doesn’t mean you’re limited! Power Automate provides an abundance of possibilities and connectors that makes it easy to go beyond the tooling to solve more sophisticated scenarios and empower citizen developers at every step of app development. In this session developers will get a deep dive on how to call APIs, consume services and expose and surface data using different techniques; from using HTTP calls from within Power Automate to building custom connectors to integrate directly with services and extend the server-side logic with code plugins. This session also provides a prescriptive guidance and best practices on when to use which technique. Join Ahmad Najjar into an advanced level session that will extend your Power Automate skills beyond the tooling point and click!",
+            "url":"https://form.responster.com/Ljy1va"
+         },
+         {
+            "start":"10:45",
+            "end":"11:35",
+            "speaker":"Karoliina Kettukari",
+            "title":"From technology to #PeopleFirst - Microsoft Viva as the Employee Experience Platform (lvl 100)",
+            "description":"Intranets with SharePoint, migrating from on-premises to the cloud, transition from Skype to Teams…We are used to invest in technical IT projects - but how about people who use these tools every day? Employees are the most valuabe asset in every organisation. Now it has come time to invest in them - to invest in wellbeing at work. In this session I will share and show how Microsoft Teams and Viva solutions merge as a one ultimate employee experience platform. We cover Viva Connections, Topics, Insights, Learning, Ally.IO and Glint. Our focus is not on the technical aspects of the applications, but how they combine and how we use the technology to develop our employee experience. Use the tech for good - it pays back.",
+            "url":"https://form.responster.com/K6pKGA"
+         },
+         {
+            "start":"11:50",
+            "end":"12:40",
+            "speaker":"Serge Luca - Isabelle Van Campenhoudt",
+            "title":"Unified Governance for Power Automate, Power Apps and Power BI with Doctor Flow & Isa (lvl 200)",
+            "description":"In this session, Isabelle Van Campenhoudt (Data Platform MVP) and Doctor Flow (aka Serge Luca- Business Application MVP) will illustrate their proposal for a unified pragmatic Power Platform governance and adoption plan combining Power Apps, Power Automate, and Power BI. Even though Power BI and the Power Platform apps creation tools are different, the governance and adoption challenges remain the same. Conceptually, when it comes to self-service BI and citizen developers, the classical centralized governance approach does not fit the needs of flexibility required by the business. The presenters will detail the benefit of having a single polymorphic approach where the concrete associated actions can be product-specific. Many elements of this governance have been experimented on the field by Isabelle during the last 5 years for Power BI and during the last 4 years for Power Automate and Power Apps by Doctor Flow. Many use cases will illustrate this session to be aligned with real-world requirements.",
+            "url":"https://form.responster.com/9kAdJq"
+         },
+         {
+            "start":"14:00",
+            "end":"14:50",
+            "speaker":"Marijn Somers",
+            "title":"ADKAR in a single session (lvl 200)",
+            "description":"ADKAR change management in one session is impossible, right. Like delivering the complete works of Shakespeare in 50 minutes? But if the process is turned into a series of real life experience bullets’ each delivered in 90 seconds then that is 25 opportunities to take away a golden nugget that could add value to the way you approach Change and Adoption. This whole talk is supported by a series of Podcasts on the ADKAR subject called the Barcelona Tapes ( www.marijnandsteve.com ) where two experience change managers discuss each of the ADKAR sections will be referenced and available to delegates to expand on their personal Golden Nugget from the session.",
+            "url":"https://form.responster.com/NZ2tEw"
+         },
+         {
+            "start":"15:10",
+            "end":"16:00",
+            "speaker":"Maarten Eekels",
+            "title":"Microsoft Stream on SharePoint unwrapped (lvl 200)",
+            "description":"Video is becoming more and more important in our daily lives. In the past 30 days, more online video content has been uploaded to the web than the past 30 years of TV content has been created. Microsoft has had a vision where video would play an important role in any organisation for a long time. It started with Office 365 Video, then Microsoft Stream was launched, and nowadays we already call that Stream classic and “Stream on SharePoint” is the new thing. In this session we will unwrap what Stream on SharePoint has to offer. How does it work, both technically and functionally, and how can you use Stream to create, share, discover, and manage video just as you would any other file? Also, we will build a video portal site from the ground up, leveraging SharePoint's awesome content management features and we'll use Viva Connections to publish that portal to Microsoft Teams.",
+            "url":"https://form.responster.com/SeP9t8"
+         },
+         {
+            "start":"16:20",
+            "end":"17:10",
+            "speaker":"Jasper Oosterveld",
+            "title":"How to secure & manage your data while collaborating, internally & externally, with Microsoft Teams (lvl 200)",
+            "description":"Collaboration is a crucial part of our daily work lives. Microsoft Teams made collaboration easier and the sky is the limit. In between all the applause and cheers, customers are starting to ask an important question: How can we secure and manage our data? Jasper Oosterveld, Microsoft MVP & Modern Workplace Consultant, is going to answer this question. You can expect real world advise around sensitivity & retention labels, DLP and managing external access.",
+            "url":"https://form.responster.com/y9KIJv"
+         }
+      ]
+   }
 ]
