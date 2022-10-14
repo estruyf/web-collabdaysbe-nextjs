@@ -51,19 +51,27 @@ function Home({ sessions }) {
         </style>
       </Head>
 
-      <Header />
+      {
+        zoom === 1 && (
+          <Header />
+        )
+      }
 
-      <Agenda agenda={sessions} timeslot={timeslot} />
+      <Agenda agenda={sessions} timeslot={timeslot} zoom={zoom} />
 
-      <footer className={`mx-auto w-full lg:max-w-7xl py-4 border-t border-gray-100 sticky top-[100vh]`}>
-        <div className="mb-2 mx-auto text-center text-xs">
-          <p>Hosted by</p>
-        </div>
+      {
+        zoom === 1 && (
+          <footer className={`mx-auto w-full lg:max-w-7xl py-4 border-t border-gray-100 sticky top-[100vh]`}>
+            <div className="mb-2 mx-auto text-center text-xs">
+              <p>Hosted by</p>
+            </div>
 
-        <a href={`https://biwug.be`} title={`BIWUG`}>
-          <img src="/assets/biwug.svg" className={`w-32 mx-auto`} alt={`BIWUG`} />
-        </a>
-      </footer>
+            <a href={`https://biwug.be`} title={`BIWUG`}>
+              <img src="/assets/biwug.svg" className={`w-32 mx-auto`} alt={`BIWUG`} />
+            </a>
+          </footer>
+        )
+      }
     </div>
   )
 }
