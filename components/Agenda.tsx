@@ -1,10 +1,11 @@
 import * as React from 'react';
-import { useMemo, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import { Agenda as IAgenda } from '../models';
 import { Dropdown } from './Dropdown';
 
 export interface IAgendaProps {
   agenda: IAgenda[];
+  timeslot?: string;
 }
 
 export interface TimeSlot {
@@ -12,7 +13,7 @@ export interface TimeSlot {
   end: string;
 }
 
-export const Agenda: React.FunctionComponent<IAgendaProps> = ({agenda}: React.PropsWithChildren<IAgendaProps>) => {
+export const Agenda: React.FunctionComponent<IAgendaProps> = ({agenda, timeslot}: React.PropsWithChildren<IAgendaProps>) => {
   const [ selectedTimeslot, setSelectedTimeslot ] = useState<TimeSlot | undefined>(undefined);
   
   const rooms = useMemo(() => {
@@ -55,6 +56,15 @@ export const Agenda: React.FunctionComponent<IAgendaProps> = ({agenda}: React.Pr
     const [start, end] = timeslot.split(" - ");
     setSelectedTimeslot({ start, end });
   };
+  
+  useEffect(() => {    
+    if (timeslot && timeslots.length > 0) {
+      const slot = timeslots.find(t => t.start === timeslot);
+      if (slot) {
+        setSelectedTimeslot(slot);
+      }
+    }
+  }, [timeslot, setSelectedTimeslot, timeslots]);
 
   if (!agenda) {
     return null;

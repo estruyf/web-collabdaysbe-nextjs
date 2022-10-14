@@ -1,10 +1,32 @@
 import { readFileSync } from 'fs';
 import Head from 'next/head'
+import { useRouter } from 'next/router';
 import path from 'path';
+import { useEffect, useState } from 'react';
 import { Agenda } from '../components/Agenda';
 import { Header } from '../components/Header'
 
 function Home({ sessions }) {
+  const [ zoom, setZoom ] = useState<number>(1);
+  const [ timeslot, setTimeslot ] = useState<string | undefined>(undefined);
+  const router = useRouter();
+
+  useEffect(() => {
+    if (router.query.zoom) {
+      setZoom(parseInt(router.query.zoom as string) || 1);
+    }
+  }, [router.query.zoom]);
+
+  useEffect(() => {
+    if (router.query.timeslot) {
+      let value = router.query.timeslot as string;
+      if (value.includes(`"`)) {
+        value = value.replace(/"/g, '');
+      }
+      setTimeslot(value);
+    }
+  }, [router.query.timeslot]);
+
   return (
     <div className={`bg-white min-h-screen`}>
       <Head>
@@ -17,11 +39,19 @@ function Home({ sessions }) {
 
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin={'true'} />
+
+        <style>
+          {`
+            html, body, #__next {
+              font-size: ${zoom}rem;
+            }
+          `}
+        </style>
       </Head>
 
       <Header />
 
-      <Agenda agenda={sessions} />
+      <Agenda agenda={sessions} timeslot={timeslot} />
 
       <footer className={`mx-auto w-full lg:max-w-7xl py-4 border-t border-gray-100 sticky top-[100vh]`}>
         <div className="mb-2 mx-auto text-center text-xs">
