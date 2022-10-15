@@ -88,14 +88,6 @@
             "url":"https://form.responster.com/d13qpS"
          },
          {
-            "start":"13:00",
-            "end":"13:30",
-            "speaker":"Sofie Van Der Bruggen - Osvaldo Sousa",
-            "title":"[Sponsor session by Kianda] Breaking down barriers to Digital Transformation",
-            "description":"Create amazing enterprise applications and automate business processes easily and quickly without coding.",
-            "url":"https://form.responster.com/oZUyHI"
-         },
-         {
             "start":"14:00",
             "end":"14:50",
             "speaker":"Albert-Jan Schot",
@@ -147,6 +139,14 @@
             "title":"Microsoft Purview Information Protection de-mystified (lvl 200)",
             "description":"Microsoft Information Protection has come a long way. From the earliest beginnings (Azure RMS and Secure Islands) to the auto-classification of SharePoint Online data at-rest, there are no reasons not to use the functions it provides. But the prospect of using the labels is somewhat daunting. Will these work? What options do we have? Can I still collaborate with my partners? In this session, Albert will do a deep-dive into Microsoft Information Protection. We'll look at the configuration of the labels and the integration with Office Online. Auto-classification of data at rest (either on-premise or in the cloud) is also part of the agenda. We'll also dive into the scenario of data leakage and how information protection can be used to counter this as-well. The concept of labeling containers instead of the information itself is also discussed, including the pros and cons. In the end you will have a great understanding of anything to do with labeling in Office 365 and beyond.",
             "url":"https://form.responster.com/ZYqHqg"
+         },
+         {
+            "start":"13:00",
+            "end":"13:30",
+            "speaker":"Sofie Van Der Bruggen - Osvaldo Sousa",
+            "title":"[Sponsor session by Kianda] Breaking down barriers to Digital Transformation",
+            "description":"Create amazing enterprise applications and automate business processes easily and quickly without coding.",
+            "url":"https://form.responster.com/oZUyHI"
          },
          {
             "start":"14:00",
